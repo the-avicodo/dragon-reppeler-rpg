@@ -3,7 +3,7 @@ A role-playing website game where you kill monsters for XP and gold until you ar
 ![image](https://github.com/user-attachments/assets/ecbecaaa-1289-4cff-9414-ebf22f9bb5f1)
 
 
-## Controls
+## Starting Controls
 Go To Store -  Buy stronger weapons and health in exchange for gold
 
 Go To Cave - Fight slimes and fanged beasts. When slain, earn gold and xp
